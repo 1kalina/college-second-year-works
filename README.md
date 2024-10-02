@@ -1,7 +1,11 @@
 # College-second-year-projects
+I have a list from my college detailing all the assignments that students need to complete by the end of their second year. I want to make all of them
+
+I will also add the apps for resolving mathematical tasks that we have ever received
 
 ## Navigation
 All folders named after the app contain an `.exe` file or another executable file for running the application, as well as a separate folder for the code
+
 
 ## List of Apps
 1.  Розробка гри “Змійка”
@@ -48,3 +52,7 @@ All folders named after the app contain an `.exe` file or another executable fil
 42. Оптимізація та аналіз алгоритмів роботи з графами: пошук найкоротших шляхів
 43. Реалізація гри "Сапер" з використанням консольного інтерфейсу
 44. Розробка простої системи керування фінансами
+
+
+## List of Apps for resolving mathematical tasks 
+45. Rank of matrix
