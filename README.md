@@ -55,4 +55,4 @@ All folders named after the app contain an `.exe` file or another executable fil
 
 
 ## List of Apps for resolving mathematical tasks 
-45. Rank of matrix
+45. Rank and Minor of matrix finder
