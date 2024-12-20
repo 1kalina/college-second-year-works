@@ -1,4 +1,4 @@
-# College-second-year-projects
+# Projects from my life
 I have a list from my college detailing all the assignments that students need to complete by the end of their second year. I want to make all of them
 
 I will also add the apps for resolving mathematical tasks that we have ever received
