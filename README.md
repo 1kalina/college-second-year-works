@@ -58,3 +58,15 @@ All folders named after the app contain `.cpp`, `.py`, `.exe`, `.js` files or an
 ## List of some Codes 
 45. ✅ Rank and Minor of matrix finder
 46. ✅ Sorting by Selection, Shaker, Bubble C++
+
+
+
+
+
+
+
+
+
+
+
+
