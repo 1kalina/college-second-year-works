@@ -4,7 +4,7 @@ I have a list from my college detailing all the assignments that students need t
 I will also add the apps for resolving mathematical tasks that we have ever received
 
 ## Navigation
-All folders named after the app contain an `.exe` file or another executable file for running the application, as well as a separate folder for the code
+All folders named after the app contain `.cpp`, `.py`, `.exe`, `.js` files or another executable file for running the application, as well as a separate folder for the code
 
 
 ## List of Apps
@@ -17,7 +17,7 @@ All folders named after the app contain an `.exe` file or another executable fil
 7.  Розробка гри “Рослини”
 8.  Розробка системи світлофор
 9.  Розробка гри “Карта скарбів”
-10. Розробка гри “Гра вслова”
+10. Розробка гри “Гра в слова”
 11. Розробка гри “Числові головоломки”
 12. Моделювання процесу розповсюдження інфекції
 13. Розробка гри “Італійсьа гра Математикко”
@@ -54,5 +54,6 @@ All folders named after the app contain an `.exe` file or another executable fil
 44. Розробка простої системи керування фінансами
 
 
-## List of Apps for resolving mathematical tasks 
-45. Rank and Minor of matrix finder
+## List of some Codes 
+45. ✅ Rank and Minor of matrix finder
+46. ✅ Sorting by Selection, Shaker, Bubble C++
