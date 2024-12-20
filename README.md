@@ -58,3 +58,7 @@ All folders named after the app contain `.cpp`, `.py`, `.exe`, `.js` files or an
 ## List of some Codes 
 45. ✅ Rank and Minor of matrix finder
 46. ✅ Sorting by Selection, Shaker, Bubble C++
+47. ✅ Ceasar Cipher
+48. ✅ Magic 8 ball
+49. ✅ Number guessing game
+50. ✅ Password generator
