@@ -3,6 +3,7 @@ I have a list from my college detailing all the assignments that students need t
 
 I will also add the apps for resolving mathematical tasks that we have ever received
 
+
 ## Navigation
 All folders named after the app contain `.cpp`, `.py`, `.exe`, `.js` files or another executable file for running the application, as well as a separate folder for the code
 
